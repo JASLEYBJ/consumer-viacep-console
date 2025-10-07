@@ -1,0 +1,14 @@
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\bin\Debug\net10.0\ConsumerViaCep.exe
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\bin\Debug\net10.0\ConsumerViaCep.deps.json
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\bin\Debug\net10.0\ConsumerViaCep.runtimeconfig.json
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\bin\Debug\net10.0\ConsumerViaCep.dll
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\bin\Debug\net10.0\ConsumerViaCep.pdb
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\obj\Debug\net10.0\ConsumerViaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\obj\Debug\net10.0\ConsumerViaCep.AssemblyInfoInputs.cache
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\obj\Debug\net10.0\ConsumerViaCep.AssemblyInfo.cs
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\obj\Debug\net10.0\ConsumerViaCep.csproj.CoreCompileInputs.cache
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\obj\Debug\net10.0\ConsumerViaCep.dll
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\obj\Debug\net10.0\refint\ConsumerViaCep.dll
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\obj\Debug\net10.0\ConsumerViaCep.pdb
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\obj\Debug\net10.0\ConsumerViaCep.genruntimeconfig.cache
+C:\Users\bernardo.silva\Documents\Models\Endereco.cs\ConsumerViaCep\obj\Debug\net10.0\ref\ConsumerViaCep.dll
